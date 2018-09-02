@@ -1,0 +1,9 @@
+{
+	"markers": [
+                { "id": 1, "title": "Lava Radio", "description": "Lava rapido e Estacionamento muito bom", "lat": -23.526702, "lng": -46.383464, "show": false },
+                { "id": 2, "title": "Praca para exercicio", "description": "Com aparelhos ar livre", "lat": -23.527696, "lng": -46.384718, "show": false },
+                { "id": 3, "title": "Campo de futebol", "description": "No condominio do Parque dos Sonhos", "lat": -23.526344, "lng": -46.385463, "show": false },
+                { "id": 4, "title": "Estacionamento organizado", "description": "Esquina Antônio Lourenco dos Santos", "lat": -23.528139, "lng": -46.382737, "show": false },
+                { "id": 5, "title": "Mercado e Padaria J&F ", "description": "R. Maria videira da Costa", "lat": -23.526874, "lng": -46.383761, "show": false }
+            ]
+}
